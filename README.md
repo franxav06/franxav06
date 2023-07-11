@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @franxav06
+- 👋 Hi, I’m Francesco
 - 👀 I’m interested in Oracle, Postgres
 - 🌱 I’m currently learning Postgres
 - 💞️ I’m looking to collaborate on migration Oracle to Postgres
